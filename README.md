@@ -14,6 +14,8 @@ Clone of Netflix Website - build with NextJS 13 and The Movie Database for API.
 
 - [x] Fetch Random Popular / trending Kdrama for Billboard Homepage
 - [x] Fetch Kdrama Logo & Trailers
+- [ ] Kdrama List by categories
+- [ ] Add to List feature (Planning to integrate with MongoDB)
 - [ ] Kdrama Details component
 - [ ] Play Button functionality (Planning to redirect to streaming services)
 - [ ] Sub pages functionality
