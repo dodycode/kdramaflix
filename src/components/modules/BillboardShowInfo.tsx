@@ -19,7 +19,7 @@ const BillboardShowInfo: React.FC<Props> = ({ logo, name, overview }) => {
             ellipsis='...'
             trimRight
             basedOn='letters'
-            className="w-[50%] text-white text-[20px] my-[18px] drop-shadow-xl"/>
+            className="hidden lg:block lg:w-[50%] text-white text-xl my-[18px] drop-shadow-xl"/>
           <BillboardLinks />
         </div>
       </div>
