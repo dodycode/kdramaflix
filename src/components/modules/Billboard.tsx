@@ -57,7 +57,7 @@ const Billboard: React.FC = () => {
 
   return (
     <div className="overflow-hidden max-h-screen">
-      <div className="relative w-screen h-screen pt-[56.25%]">
+      <div className="relative w-screen h-screen lg:pt-[56.25%]">
         <BillboardBackdrop 
           backdrop_path={billboardShow?.backdrop_path} 
           trailer={trailer} 
